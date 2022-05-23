@@ -28,9 +28,9 @@
                                         
 
 
-<p align="center">(
-![Alt Text](https://raw.githubusercontent.com/08Gunjan/GUESS-MY-NUMBER/main/videos/guess%20the%20number.gif))
-</p>
+
+![Alt Text](https://raw.githubusercontent.com/08Gunjan/GUESS-MY-NUMBER/main/videos/guess%20the%20number.gif)
+
 
 
 ###### This website was built by using Vanilla JavaScript only.

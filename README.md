@@ -1,10 +1,11 @@
+<p align="center"> 
 # Guess-My-Number 🙄
 ## [Guess My Number - Live Demo](https://kareemfahmy97.github.io/Guess-My-Number/)
 
-<p align="center"> 𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚍𝚎𝚖𝚘 𝚐𝚊𝚖𝚎 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻 , 𝙲𝚂𝚂 , 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃 ( 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓)</p>
+𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚍𝚎𝚖𝚘 𝚐𝚊𝚖𝚎 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻 , 𝙲𝚂𝚂 , 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃 ( 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓)
 
 
-# How to play this game ?
+# How to play this game ? </p>
 
                                           You have to guess a number between 1 to 20 
                                                             |
@@ -27,6 +28,7 @@
                                           (𝘋𝘰𝘯'𝘵 𝘧𝘰𝘳𝘨𝘦𝘵 𝘵𝘩𝘦 𝘳𝘢𝘯𝘨𝘦 𝘰𝘧 𝘯𝘶𝘮𝘣𝘦𝘳𝘴 𝘪𝘴 1 𝘵𝘰 20) 
                                         
 
+<p align='center'>
 ![Alt Text](https://raw.githubusercontent.com/08Gunjan/GUESS-MY-NUMBER/main/videos/guess%20the%20number.gif)
 
 
@@ -43,4 +45,4 @@ Run npm start. Navigate to http://localhost:3000/. The app will automatically re
 I made this project in Jonas's Full JS Course.
 
 - Made with love ❤️ by me.
-
+</p>
